@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  width: 100vw;
+  height: 100vh;
+  border: black solid 5vmin;
+  text-align: center;
+  vertical-align: middle; }
+  body img {
+    width: 90vmin;
+    height: auto;
+    padding: calc( ( 90vh - 90vmin ) / 2 ) 0; }
+
+/*# sourceMappingURL=index.css.map */
