@@ -1,2 +1,3 @@
-# queensya.github.io
-Queensya GitHub Pages
+# queensya.com
+
+Queensya Official Home Website.
