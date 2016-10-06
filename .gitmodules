@@ -1,3 +1,6 @@
 [submodule "img/logo"]
 	path = img/logo
 	url = https://github.com/Queensya/queensya-logo.git
+[submodule "assets/img/logo"]
+	path = assets/img/logo
+	url = https://github.com/Queensya/logo.git
